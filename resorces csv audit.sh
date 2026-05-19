@@ -1,3 +1,5 @@
+NOTE: # audit.sh and csv to excel in in same folder when we execute 
+
 #!/bin/bash
 # ============================================================
 # AWS Resource Audit Script (NO PROFILE VERSION)
